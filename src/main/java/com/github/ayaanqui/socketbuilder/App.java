@@ -1,4 +1,4 @@
-package com.github.ayaanqui;
+package com.github.ayaanqui.socketbuilder;
 
 /**
  * Hello world!

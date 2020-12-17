@@ -1,4 +1,4 @@
-package com.github.ayaanqui;
+package com.github.ayaanqui.socketbuilder;
 
 import org.junit.jupiter.api.Test;
 
